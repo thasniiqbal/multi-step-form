@@ -1,0 +1,13 @@
+.cam-container {
+    background-color: black;
+}
+.cam {
+    width :400px;
+}
+.canvas {
+    width: 120px;
+    height: 100px ;
+    position: absolute ;
+    top :1px
+   
+}

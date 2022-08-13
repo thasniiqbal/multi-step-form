@@ -1,0 +1,16 @@
+.header {
+    width: 20%;
+    background-color: red;
+    float: right;
+    border-bottom-left-radius: 20px;
+    color :white;
+    padding: 1px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+.header-text {
+    padding: 30px;
+}
+  
